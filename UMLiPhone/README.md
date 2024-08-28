@@ -2,13 +2,6 @@
 Desafio de código cujo obejtivo é criar um diagrama UML com base nas funcionalidades do primeiro modelo iPhone.
 As classes criadas nesse projeto foram feitas com o intuito de ilustras as funcionalidades, portanto elas não realizam tarefas reais, imprimindo apenas descrições do que os métodos fariam caso fossem empregadas em um ambiente verdadeiro.
 ## Diagrama UML (Mermaid)
-
-classDiagram
-direction BT
-IPhone o-- Musicas
-IPhone o-- Telefone
-IPhone o-- Navegador
-
 ``` mermaid
 classDiagram
     direction BT
